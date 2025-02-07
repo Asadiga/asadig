@@ -1,0 +1,12 @@
+Assistant checkpoint: تحديث مظهر وإعدادات البوت
+
+Assistant generated file changes:
+- index.js: تحديث حالة البوت وتوكن البوت
+- events/ready.js: تحديث رسائل الترحيب
+- Slashcommands/Ticket/send-panel.js: تحديث عنوان ووصف لوحة التذاكر
+
+---
+
+User prompt:
+
+اريد التوكن مباشر في الكود واريد البوت حالة ستريمر ورسائل الستريمر الجذابة وايموجيات جذابه باسم HOSTX
